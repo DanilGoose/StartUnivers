@@ -58,6 +58,7 @@ async def cmd_task(callback: CallbackQuery):
             text,
             parse_mode="HTML"
         )
+    points = get_points(session, callback.from_user.id)
 
     if task_id == '1':
         task_i = points.task1
@@ -100,7 +101,7 @@ async def cmd_task(callback: CallbackQuery):
         implementations_i = points.implementations10
         state_i = await set_state(points.state10)
 
-    points = get_points(session, callback.from_user.id)
+    
 
     await callback.answer(f'Вы выбрали {task.name}')
 
