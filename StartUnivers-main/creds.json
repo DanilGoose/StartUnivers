@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "startunivers",
+  "private_key_id": "11b3893d7b2ade8e793e358da46feb9d36e335c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCfid86EZCwdj+7\nBhSytSCpGmlr3iz2xm53U0NaWlclPaLH9c1HCga/jEdyImJEr7qrm7Uxv3xG1sHw\n6/jDL/pokBOWGDZqISEj4FwSdA0GsSyMky18Lr+ov+QoRTDb4hFpk3u85pPierT+\ng+/OWqgT2H0egZ64p/ILg/WVD8uE3lbx2ITP8+0jmH8ogXTW9XE7iadm9+wixLy+\ng3We7n7SmSrpT0v+nTvEq24jrwxA1g+98PydD6zHCfjUTkTQIETMylzOUePXeKbI\n50m8zVx3TMsWacmIKGRiq96oDesZEMDcARHYA3ie8UKK/Xc81MPfenIS5YeMxoZ4\nuECwsyATAgMBAAECggEAPZfnHO4nJFmi5TvFxfDz+RV/WevfBC87+smkmT+DoZcY\nP4cAh8qxLEamVsQ7mDUYJqTo4ZoCCv9ixPb1hbYCQVhOl4Yli/faaZV3NpCjbs/8\nWRGBYA5UZHwhRALiiCHRgyczgIysz6V8Nz8M2Ghbt72/IIX+l2APrK53o+MDOfpY\nakismai1WbASY1uDS0UFfu7xLTplc8qDBfn2XovF84hWj5LqCvzmi+8fEX8Og2i2\ne+XTGViD6LyUjFhpf0KJgOts/JRU4UbFJTwIHKPGhMVoKbK3Lcsyuo/1wi+Clb57\nVVZ93Rc4TAcNtT8ctuGoD4F5e4iSnHLIO07nyg/bMQKBgQDeO7sqN30b1H+A43sX\njULZPlTSy0D9nWlnBkDCDqjrPysjBkmk1rhVXf/C4+ouVL9Yfd51FRemzqdadqAE\nXbln+3C1x2drRJw8vVazzekabJuZNC5dml/byx5iG4N0kiA20kIye1Pyxxv+Ifie\nQaj9F8DM/udZC3XEdlOeFAaLTwKBgQC3x3xpXTivKubuAYpQWXU7VLiAjEyl0Avs\nGwAFkrgGE2BUlJgpiNVIaeQyapYP294eOQwqVaWch8T4fFkaJPCT+auWT/kggzPE\nUOFAT0uCH0rvZhP+bdmwInun3zC15GWXS0+BDGFHM5FCGa/wiQ8X2i9IyzR+D542\ncZ3PTXSd/QKBgQCyHe+6O3UjzCJRfIHY85iDpEi6FrxFSVgEged/Yd6ThjKdxNlb\nq9lcWpW2b5PvhG9EjsWw07H8OR+7Ct7gAPqsU8QXffXu7LPInvyR6lSNoETp+v+6\neBOih18XxPOMh94X8leqPFyhdmKCQloRBZFbISGfbCKipOPEDg6g4W4JUwKBgHzv\nj6NtbWCf8Nfykh3nguvvv3Icbur2UXSUMmKXiKUQvRci4YKy9BPDcQ/ZJ+TmGs0/\nCQcqrGiKYBxxJH3CiQ5/1+davMkeiK24Mjlu7q0qKt4u7f60nR3Bg4DvGQU+nNXK\nq+TWDrfB1cky/0mtU2ZqvGRnSGs+oNbwTFEmndXdAoGAFp/NTMnZ5gIZPiUW611f\nWg2nrvh2RMY5o7hAAeG+hRx9XFUvOdsuHVHl5cm1NMdoJ8k/TD9JRVksKPknt+Kz\n/TC1P5CoiE/MR0dKpE+6mHn7TeYqpnHOXHT5pp0LtneV0Q3HH4cMUnswzxutYNED\nwTb3hOOJgU0cDlRaOgBPxYQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "botstartunivers@startunivers.iam.gserviceaccount.com",
+  "client_id": "105379601703607591033",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botstartunivers%40startunivers.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
