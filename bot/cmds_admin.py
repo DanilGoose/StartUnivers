@@ -140,7 +140,7 @@ async def tasks_next_page(callback: CallbackQuery):
     if not check_adm(callback.from_user.id):
         return
     page = int(callback.data.split('_')[-1])
-    tasks = get_verified_tasks()
+    tasks = get_users(session)
     await update_scrollable_tasks_user_kb(callback, tasks, page)
 
 
@@ -149,7 +149,7 @@ async def tasks_prev_page(callback: CallbackQuery):
     if not check_adm(callback.from_user.id):
         return
     page = int(callback.data.split('_')[-1])
-    tasks = get_verified_tasks()
+    tasks = get_users(session)
     await update_scrollable_tasks_user_kb(callback, tasks, page)
 
 

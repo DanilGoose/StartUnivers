@@ -143,11 +143,13 @@ def create_scrollable_user_keyboard(items, page=1):
     end_index = min(start_index + items_per_page, len(items))
 
     keyboard = []
+    print(items)    
     for i in range(start_index, end_index):
+        print(items[i].full_name)
         keyboard.append([InlineKeyboardButton(
             text=f'{items[i].full_name}', callback_data=f'choose_{items[i].id}')])
 
-    navigation_buttons = []
+    navigation_buttons = [] 
 
     if page > 1:
         navigation_buttons.append(

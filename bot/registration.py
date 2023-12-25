@@ -137,6 +137,7 @@ async def process_mentor_full_name(message: Message, state: FSMContext) -> None:
         create_user(session, message.from_user.id, message.from_user.username,
                     user_data["full_name"], user_data["post"], user_data["telephone"], user_data["email"], user_data["mentor_full_name"])
         await state.clear()
+        return
 
     else:
         return await message.answer('Некоректный ввод, введите Имя, Фамилию и Отчество с большой буквы и через пробел соответственно')
